@@ -68,7 +68,7 @@
     <img width="600" alt="image" src="https://github.com/sooohyeonkim/Real-Fake-banknote/assets/146702973/fdb248f7-3a27-47ee-a25d-7d6569bc8cb8">
   * Test
     * ROC : 0.70 <br>
-    <img width="300" alt="image" src="https://github.com/sooohyeonkim/Real-Fake-banknote/assets/146702973/eb6db5a2-a182-4bb0-8b05-72301d7b5b13">
+    <img width="300" alt="image" src="https://github.com/sooohyeonkim/Real-Fake-banknote/assets/146702973/eb6db5a2-a182-4bb0-8b05-72301d7b5b13"><br>
     * Report<br>
     <img width="300" alt="image" src="https://github.com/sooohyeonkim/Real-Fake-banknote/assets/146702973/99458f0e-643b-4f97-a557-9827ebe9145a">
 -----
